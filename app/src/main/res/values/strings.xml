@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Collapsing Toolbar</string>
+    <string name="app_name">Selección de quesos</string>
+    <string name="cheese_description">Imagen del queso</string>
+    <string name="btn_add">Agregar</string>
+    <string name="txt_name_description">Nombre del queso</string>
+    <string name="btn_add.click.message">Click para comprar</string>
+    <string name="checkout_title">Finalizar compra</string>
+    <string name="checkout_question">¿Quieres pasar a finalizar tu compra?</string>
+    <string name="action_ok">Si</string>
+    <string name="action_cancel">No</string>
 </resources>
